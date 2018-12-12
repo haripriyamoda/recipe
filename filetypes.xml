@@ -1,0 +1,28 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".keyid" type="PLAIN_TEXT" />
+      <mapping pattern="NameNotFound" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerile" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="jettyrc" type="PLAIN_TEXT" />
+      <mapping pattern=".bashrc" type="PLAIN_TEXT" />
+      <mapping pattern="docker-compose" type="PLAIN_TEXT" />
+      <mapping pattern="priya" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".hostname" type="PLAIN_TEXT" />
+      <mapping pattern="mixins.js" type="PLAIN_TEXT" />
+      <mapping ext="bkup" type="PLAIN_TEXT" />
+      <mapping ext="gpg" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="p7b" type="PLAIN_TEXT" />
+      <mapping ext="57fc271a" type="PLAIN_TEXT" />
+      <mapping ext="proeprties" type="PLAIN_TEXT" />
+      <mapping pattern="mixins" type="Vue.js" />
+    </extensionMap>
+  </component>
+</application>
