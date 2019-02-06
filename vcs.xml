@@ -88,6 +88,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Code/master" />
+    <option name="cloneParentDir" value="$USER_HOME$/Code" />
   </component>
 </application>
