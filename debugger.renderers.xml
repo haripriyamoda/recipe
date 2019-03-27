@@ -1,12 +1,5 @@
 <application>
   <component name="NodeRendererSettings">
-    <Renderer ID="ArrayRenderer">
-      <option name="NAME" value="unnamed" />
-      <option name="ENABLED" value="true" />
-      <option name="START_INDEX" value="0" />
-      <option name="END_INDEX" value="99" />
-      <option name="ENTRIES_LIMIT" value="99" />
-    </Renderer>
     <Renderer ID="ToStringRenderer">
       <option name="NAME" value="unnamed" />
     </Renderer>
@@ -28,12 +21,23 @@
     </Renderer>
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="byte[]" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="byte[]" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="byte[]" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="Arrays.toString(this)&#13;java.util.Arrays&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
         <option name="NAME" value="java.util.ArrayList" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="java.util.ArrayList" />
         <Renderer ID="LabelRenderer" role="label">
           <option name="QUALIFIED_NAME" value="java.util.ArrayList" />
-          <option name="LABEL_EXPRESSION" value="Arrays.toString(this);&#13;&#13;JAVA" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="Arrays.toString(this)&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
     </CustomRenderers>
