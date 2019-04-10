@@ -1,18 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="NameNotFound" type="PLAIN_TEXT" />
+      <mapping pattern="docker-compose" type="PLAIN_TEXT" />
       <mapping pattern="node" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="Dockerile" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="jettyrc" type="PLAIN_TEXT" />
-      <mapping pattern=".keyid" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="NameNotFound" type="PLAIN_TEXT" />
       <mapping pattern=".bashrc" type="PLAIN_TEXT" />
-      <mapping pattern="docker-compose" type="PLAIN_TEXT" />
+      <mapping pattern=".keyid" type="PLAIN_TEXT" />
       <mapping pattern="priya" type="PLAIN_TEXT" />
       <mapping pattern=".hostname" type="PLAIN_TEXT" />
+      <mapping pattern="env-integration" type="PLAIN_TEXT" />
       <mapping ext="bkup" type="PLAIN_TEXT" />
       <mapping ext="gpg" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
